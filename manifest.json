@@ -1,0 +1,22 @@
+{
+  "name": "ثامر الجبوري — قطع غيار مرسيدس بنز",
+  "short_name": "ثامر الجبوري",
+  "description": "نظام إدارة قطع غيار مرسيدس بنز",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#171616",
+  "theme_color": "#C0A060",
+  "orientation": "landscape",
+  "lang": "ar",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "screenshots": []
+}
