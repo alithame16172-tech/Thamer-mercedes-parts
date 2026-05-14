@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="80" fill="#171616"/>
-  <text x="256" y="160" font-family="serif" font-size="120" font-weight="700" fill="#C0A060" text-anchor="middle" dominant-baseline="middle">ث</text>
-  <text x="256" y="290" font-family="serif" font-size="56" font-weight="600" fill="#E8C97A" text-anchor="middle">الجبوري</text>
-  <text x="256" y="370" font-family="serif" font-size="34" fill="#9A7A3A" text-anchor="middle">Mercedes Parts</text>
-  <rect x="80" y="410" width="352" height="3" rx="2" fill="#C0A060" opacity="0.5"/>
-</svg>
